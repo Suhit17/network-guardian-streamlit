@@ -1,0 +1,36 @@
+# Network Guardian Crew Requirements
+# Install with: pip install -r requirements.txt
+
+# CrewAI Framework
+crewai==0.70.1
+crewai-tools==0.12.1
+
+# Google Gemini Integration
+google-generativeai==0.8.3
+
+# Network Monitoring
+scapy==2.5.0
+psutil==5.9.8
+pyshark==0.6.0
+
+# Machine Learning for Anomaly Detection
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.3
+
+# Network Automation
+paramiko==3.4.0
+python-nmap==0.7.1
+netmiko==4.3.0
+
+# Web Scraping and APIs
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# UI Dashboard
+streamlit==1.32.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic>=2.7.0
+typing-extensions==4.9.0
