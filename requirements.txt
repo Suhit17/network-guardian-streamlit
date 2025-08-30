@@ -29,6 +29,7 @@ beautifulsoup4==4.12.3
 
 # UI Dashboard
 streamlit==1.32.0
+plotly==5.17.0
 
 # Utilities
 python-dotenv==1.0.1
