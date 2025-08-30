@@ -1,5 +1,5 @@
 # Streamlit Cloud Deployment Requirements
-# Minimal dependencies for web interface deployment
+# Essential dependencies only for web interface
 
 # UI Dashboard
 streamlit>=1.28.0
@@ -9,8 +9,5 @@ plotly>=5.15.0
 pandas>=2.0.0
 numpy>=1.24.0
 
-# System Monitoring (limited functionality on cloud)
+# System Monitoring (basic functionality only)
 psutil>=5.9.0
-
-# Utilities
-python-dotenv>=1.0.0
